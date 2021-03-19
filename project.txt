@@ -1,0 +1,10 @@
+soyokaze.py		-- 画面およびイベント
+berfore.py		-- 前チェック用関数群
+connect.py		-- sqlite用関数群
+
+
+# pdf2txt.py のパス
+#py_path = Path(sys.exec_prefix) / "Scripts" / "pdf2txt.py"
+
+# pdf2txt.py の呼び出し
+#call(["py", str(py_path), "-o extract-sample.txt", "-p 1", "extract-sample.pdf"])
